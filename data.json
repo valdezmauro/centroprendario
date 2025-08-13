@@ -1,0 +1,154 @@
+{
+  "porcentajes": {
+    "2025-2020": 70,
+    "2019-2015": 65,
+    "2014-2012": 55,
+    "2011-2010": 50
+  },
+  "bloques": [
+    {
+      "titulo": "2025 / 2015",
+      "coeficientes": [
+        {
+          "plazo": 12,
+          "coef": 131.77
+        },
+        {
+          "plazo": 15,
+          "coef": 115.87
+        },
+        {
+          "plazo": 18,
+          "coef": 105.7
+        },
+        {
+          "plazo": 24,
+          "coef": 92.33
+        },
+        {
+          "plazo": 30,
+          "coef": 86.02
+        },
+        {
+          "plazo": 36,
+          "coef": 82.41
+        },
+        {
+          "plazo": 48,
+          "coef": 78.91
+        }
+      ]
+    },
+    {
+      "titulo": "2014 / 2012",
+      "coeficientes": [
+        {
+          "plazo": 12,
+          "coef": 142.32
+        },
+        {
+          "plazo": 15,
+          "coef": 126.84
+        },
+        {
+          "plazo": 18,
+          "coef": 113.63
+        },
+        {
+          "plazo": 24,
+          "coef": 100.35
+        },
+        {
+          "plazo": 30,
+          "coef": 94.52
+        },
+        {
+          "plazo": 36,
+          "coef": 91.29
+        }
+      ]
+    },
+    {
+      "titulo": "2011 / 2010",
+      "coeficientes": [
+        {
+          "plazo": 12,
+          "coef": 145.19
+        },
+        {
+          "plazo": 15,
+          "coef": 129.83
+        },
+        {
+          "plazo": 18,
+          "coef": 117.49
+        },
+        {
+          "plazo": 24,
+          "coef": 104.46
+        },
+        {
+          "plazo": 30,
+          "coef": 98.86
+        },
+        {
+          "plazo": 36,
+          "coef": 95.82
+        }
+      ]
+    },
+    {
+      "titulo": "UVA — 0KM / 2015",
+      "coeficientes": [
+        {
+          "plazo": 12,
+          "coef": 104.28
+        },
+        {
+          "plazo": 15,
+          "coef": 87.63
+        },
+        {
+          "plazo": 18,
+          "coef": 76.64
+        },
+        {
+          "plazo": 24,
+          "coef": 63.13
+        },
+        {
+          "plazo": 30,
+          "coef": 55.26
+        },
+        {
+          "plazo": 36,
+          "coef": 50.21
+        },
+        {
+          "plazo": 48,
+          "coef": 44.3
+        }
+      ]
+    }
+  ],
+  "maximos": {
+    "filas": [
+      {
+        "rango": "2020 al 2025",
+        "porcentaje": 70
+      },
+      {
+        "rango": "2015 al 2019",
+        "porcentaje": 65
+      },
+      {
+        "rango": "2012 al 2014",
+        "porcentaje": 55
+      },
+      {
+        "rango": "2011 al 2010",
+        "porcentaje": 50
+      }
+    ]
+  }
+}
