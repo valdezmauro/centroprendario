@@ -119,7 +119,7 @@ function makeMaximos(m) {
   note.className = "muted";
   note.style.padding = "10px 12px";
   note.textContent =
-    "Tip: cambiá los porcentajes y coeficientes en data.json sin tocar el HTML.";
+    "Centro Prendario 2025";
   wrap.appendChild(note);
   return wrap;
 }
