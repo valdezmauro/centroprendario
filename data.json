@@ -102,31 +102,31 @@
       "coeficientes": [
         {
           "plazo": 12,
-          "coef": 1099.02
+          "coef": 109.902
         },
         {
           "plazo": 15,
-          "coef": 933.54
+          "coef": 93.354
         },
         {
           "plazo": 18,
-          "coef": 824.83
+          "coef": 82.483
         },
         {
           "plazo": 24,
-          "coef": 692.45
+          "coef": 69.245
         },
         {
           "plazo": 30,
-          "coef": 616.63
+          "coef": 61.663
         },
         {
           "plazo": 36,
-          "coef": 568.89
+          "coef": 56.889
         },
         {
           "plazo": 48,
-          "coef": 514.94
+          "coef": 51.494
         }
       ]
     }
