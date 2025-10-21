@@ -11,31 +11,31 @@
       "coeficientes": [
         {
           "plazo": 12,
-          "coef": 131.77
+          "coef": 137.35
         },
         {
           "plazo": 15,
-          "coef": 115.87
+          "coef": 121.66
         },
         {
           "plazo": 18,
-          "coef": 105.7
+          "coef": 111.72
         },
         {
           "plazo": 24,
-          "coef": 92.33
+          "coef": 98.73
         },
         {
           "plazo": 30,
-          "coef": 86.02
+          "coef": 92.80
         },
         {
           "plazo": 36,
-          "coef": 82.41
+          "coef": 89.49
         },
         {
           "plazo": 48,
-          "coef": 78.91
+          "coef": 86.45
         }
       ]
     },
@@ -44,27 +44,27 @@
       "coeficientes": [
         {
           "plazo": 12,
-          "coef": 142.32
+          "coef": 148.09
         },
         {
           "plazo": 15,
-          "coef": 126.84
+          "coef": 132.86
         },
         {
           "plazo": 18,
-          "coef": 113.63
+          "coef": 119.83
         },
         {
           "plazo": 24,
-          "coef": 100.35
+          "coef": 106.95
         },
         {
           "plazo": 30,
-          "coef": 94.52
+          "coef": 101.49
         },
         {
           "plazo": 36,
-          "coef": 91.29
+          "coef": 98.57
         }
       ]
     },
@@ -73,27 +73,27 @@
       "coeficientes": [
         {
           "plazo": 12,
-          "coef": 145.19
+          "coef": 151.01
         },
         {
           "plazo": 15,
-          "coef": 129.83
+          "coef": 135.91
         },
         {
           "plazo": 18,
-          "coef": 117.49
+          "coef": 123.77
         },
         {
           "plazo": 24,
-          "coef": 104.46
+          "coef": 111.15
         },
         {
           "plazo": 30,
-          "coef": 98.86
+          "coef": 105.92
         },
         {
           "plazo": 36,
-          "coef": 95.82
+          "coef": 103.18
         }
       ]
     },
@@ -102,31 +102,31 @@
       "coeficientes": [
         {
           "plazo": 12,
-          "coef": 109.902
+          "coef": 115.03
         },
         {
           "plazo": 15,
-          "coef": 93.354
+          "coef": 98.60
         },
         {
           "plazo": 18,
-          "coef": 82.483
+          "coef": 87.86
         },
         {
           "plazo": 24,
-          "coef": 69.245
+          "coef": 74.92
         },
         {
           "plazo": 30,
-          "coef": 61.663
+          "coef": 67.63
         },
         {
           "plazo": 36,
-          "coef": 56.889
+          "coef": 63.13
         },
         {
           "plazo": 48,
-          "coef": 51.494
+          "coef": 58.23
         }
       ]
     }
