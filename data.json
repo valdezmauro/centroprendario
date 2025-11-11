@@ -11,15 +11,49 @@
       "coeficientes": [
         {
           "plazo": 12,
-          "coef": 137.35
+          "coef": 130.39
+          
         },
         {
           "plazo": 15,
-          "coef": 121.66
+          "coef": 114.44
         },
         {
           "plazo": 18,
-          "coef": 111.72
+          "coef": 104.22
+        },
+        {
+          "plazo": 24,
+          "coef": 90.75
+        },
+        {
+          "plazo": 30,
+          "coef": 84.36
+        },
+        {
+          "plazo": 36,
+          "coef": 80.66
+        },
+        {
+          "plazo": 48,
+          "coef": 77.05
+        }
+      ]
+    },
+    {
+      "titulo": "2014 / 2012",
+      "coeficientes": [
+        {
+          "plazo": 12,
+          "coef": 140.89
+        },
+        {
+          "plazo": 15,
+          "coef": 125.35
+        },
+        {
+          "plazo": 18,
+          "coef": 112.10
         },
         {
           "plazo": 24,
@@ -32,39 +66,6 @@
         {
           "plazo": 36,
           "coef": 89.49
-        },
-        {
-          "plazo": 48,
-          "coef": 86.45
-        }
-      ]
-    },
-    {
-      "titulo": "2014 / 2012",
-      "coeficientes": [
-        {
-          "plazo": 12,
-          "coef": 148.09
-        },
-        {
-          "plazo": 15,
-          "coef": 132.86
-        },
-        {
-          "plazo": 18,
-          "coef": 119.83
-        },
-        {
-          "plazo": 24,
-          "coef": 106.95
-        },
-        {
-          "plazo": 30,
-          "coef": 101.49
-        },
-        {
-          "plazo": 36,
-          "coef": 98.57
         }
       ]
     },
@@ -73,27 +74,27 @@
       "coeficientes": [
         {
           "plazo": 12,
-          "coef": 151.01
+          "coef": 143.75
         },
         {
           "plazo": 15,
-          "coef": 135.91
+          "coef": 128.33
         },
         {
           "plazo": 18,
-          "coef": 123.77
+          "coef": 115.94
         },
         {
           "plazo": 24,
-          "coef": 111.15
+          "coef": 102.81
         },
         {
           "plazo": 30,
-          "coef": 105.92
+          "coef": 97.11
         },
         {
           "plazo": 36,
-          "coef": 103.18
+          "coef": 94.00
         }
       ]
     },
