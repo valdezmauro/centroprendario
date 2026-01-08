@@ -1,13 +1,13 @@
 {
   "porcentajes": {
-    "2025-2020": 70,
-    "2019-2015": 65,
-    "2014-2012": 55,
-    "2011-2010": 50
+    "2026-2021": 70,
+    "2020-2016": 65,
+    "2015-2013": 55,
+    "2012-2011": 50
   },
   "bloques": [
     {
-      "titulo": "2025 / 2015",
+      "titulo": "2026 / 2016",
       "coeficientes": [
         {
           "plazo": 12,
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "titulo": "2014 / 2012",
+      "titulo": "2015 / 2013",
       "coeficientes": [
         {
           "plazo": 12,
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "titulo": "2011 / 2010",
+      "titulo": "2012 / 2011",
       "coeficientes": [
         {
           "plazo": 12,
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "titulo": "UVA — 0KM / 2015",
+      "titulo": "UVA — 0KM / 2016",
       "coeficientes": [
         {
           "plazo": 12,
@@ -135,19 +135,19 @@
   "maximos": {
     "filas": [
       {
-        "rango": "2020 al 2025",
+        "rango": "2021 al 2026",
         "porcentaje": 70
       },
       {
-        "rango": "2015 al 2019",
+        "rango": "2016 al 2020",
         "porcentaje": 65
       },
       {
-        "rango": "2012 al 2014",
+        "rango": "2013 al 2015",
         "porcentaje": 55
       },
       {
-        "rango": "2011 al 2010",
+        "rango": "2012 al 2011",
         "porcentaje": 50
       }
     ]
