@@ -6,11 +6,11 @@
     {
       "titulo": "2026 / 2013",
       "coeficientes": [
-        { "plazo": 12, "coef": 130.00 },
-        { "plazo": 18, "coef": 100.56 },
-        { "plazo": 24, "coef": 86.86 },
-        { "plazo": 36, "coef": 76.36 },
-        { "plazo": 48, "coef": 72.44 }
+        { "plazo": 12, "coef": 132.08 },
+        { "plazo": 18, "coef": 112.00 },
+        { "plazo": 24, "coef": 89.08 },
+        { "plazo": 36, "coef": 71.90 },
+        { "plazo": 48, "coef": 69.90 }
       ]
     },
     {
