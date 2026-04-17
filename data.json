@@ -1,15 +1,13 @@
 {
   "porcentajes": {
     "2026-2021": 60,
-    "2020-2016": 60,
-    "2015-2013": 55
-  },
+    "2020-2016": 60
+    },
   "bloques": [
     {
       "titulo": "2026 / 2016",
       "coeficientes": [
-        { "plazo": 12, "coef": 126.97 },
-        { "plazo": 15, "coef": 110.90 },
+        { "plazo": 12, "coef": 130.00 },
         { "plazo": 18, "coef": 100.56 },
         { "plazo": 24, "coef": 86.86 },
         { "plazo": 30, "coef": 80.24 },
@@ -18,21 +16,9 @@
       ]
     },
     {
-      "titulo": "2015 / 2013",
-      "coeficientes": [
-        { "plazo": 12, "coef": 137.35 },
-        { "plazo": 15, "coef": 121.66 },
-        { "plazo": 18, "coef": 108.32 },
-        { "plazo": 24, "coef": 94.71 },
-        { "plazo": 30, "coef": 88.54 },
-        { "plazo": 36, "coef": 85.05 }
-      ]
-    },
-    {
       "titulo": "UVA — 0KM / 2016",
       "coeficientes": [
-        { "plazo": 12, "coef": 115.03 },
-        { "plazo": 15, "coef": 98.60 },
+        { "plazo": 12, "coef": 104.59 },
         { "plazo": 18, "coef": 87.86 },
         { "plazo": 24, "coef": 74.92 },
         { "plazo": 30, "coef": 67.63 },
@@ -44,8 +30,7 @@
   "maximos": {
     "filas": [
       { "rango": "2026 al 2021", "porcentaje": 60 },
-      { "rango": "2020 al 2016", "porcentaje": 60 },
-      { "rango": "2015 al 2013", "porcentaje": 55 }
+      { "rango": "2020 al 2016", "porcentaje": 60 }
     ]
   }
 }
