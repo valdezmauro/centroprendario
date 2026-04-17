@@ -55,7 +55,7 @@ function makeCard(b) {
       </div>
       <div class="table">
         <table>
-          <thead><tr><th>PLAZO</th><th>COEF. C/$1000</th><th>MONTO</th></tr></thead>
+          <thead><tr><th>PLAZO</th><th>COEF. C/$1000</th><th>CUOTA PROM. DESDE</th></tr></thead>
           <tbody></tbody>
         </table>
       </div>
