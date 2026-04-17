@@ -10,7 +10,6 @@
         { "plazo": 12, "coef": 130.00 },
         { "plazo": 18, "coef": 100.56 },
         { "plazo": 24, "coef": 86.86 },
-        { "plazo": 30, "coef": 80.24 },
         { "plazo": 36, "coef": 76.36 },
         { "plazo": 48, "coef": 72.44 }
       ]
@@ -18,12 +17,11 @@
     {
       "titulo": "UVA — 0KM / 2016",
       "coeficientes": [
-        { "plazo": 12, "coef": 104.59 },
-        { "plazo": 18, "coef": 87.86 },
-        { "plazo": 24, "coef": 74.92 },
-        { "plazo": 30, "coef": 67.63 },
-        { "plazo": 36, "coef": 63.13 },
-        { "plazo": 48, "coef": 58.23 }
+        { "plazo": 12, "coef": 104.06 },
+        { "plazo": 18, "coef": 74.46 },
+        { "plazo": 24, "coef": 60.79 },
+        { "plazo": 36, "coef": 47.54 },
+        { "plazo": 48, "coef": 41.33 }
       ]
     }
   ],
